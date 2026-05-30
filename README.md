@@ -1,17 +1,8 @@
-# ⚠️ ALL CHEATS ARE SUBJECT TO CHANGE
-[Support Server](https://discord.gg/QerPBatcca)
-
-Cheats made by someone who knows more about what they're doing
+#NIAM IS SOO TUFF
 
 ### Bookmarklets
 When ever you need to add the cheats to your bookmarks, download [this file](obfuscated/Bookmarklets.html) and import it to your [bookmarks](chrome://bookmarks)
 
-# Todo
-
-- [x] Finish Global cheats
-- [ ] More Racing cheats
-- [X] New Gamemode cheats when new UI comes out
-- [x] New UI cheats
 
 ## List of Cheats
 ### [Global](obfuscated/global/)
